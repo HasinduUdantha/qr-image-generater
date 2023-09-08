@@ -1,2 +1,2 @@
 # qr-image-generater
-qr image generate using nodes
+QR image generated using js and node js
